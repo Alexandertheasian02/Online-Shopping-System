@@ -17,7 +17,7 @@ To build and run the project, follow these steps:
 4. To open the GUI, select the "Open GUI" option from the console menu.
 
 ## Design and Implementation
-The system is designed and implemented according to the Object-oriented principles, using UML diagrams and the following classes:
+The system is designed and implemented according to the Object-oriented principles and the following classes:
 
 * Product: an abstract class that represents a product, with attributes for the product ID, name, number of available items, and price.
 * Electronics: a subclass of Product that represents an electronics product, with additional attributes for the brand and warranty period.
