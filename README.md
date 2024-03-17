@@ -5,8 +5,8 @@ This project is an implementation of an online shopping system with a console me
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-JDK 8 or higher
-A build tool such as Apache Maven or Gradle
+* JDK 8 or higher
+* A build tool such as Apache Maven or Gradle
 
 ### Building and Running
 To build and run the project, follow these steps:
@@ -32,7 +32,7 @@ TheWestminsterShoppingManager class displays a menu in the console (not in the G
 * Add a new product to the system (electronics or clothing, with all the relevant information).
 * Delete a product from the system by inserting the product ID.
 * Print the list of products in the system, with all the information (attributes) and saying if it is electronics or clothing. The list is ordered alphabetically according to the product ID.
-* Save in a file the list of products that have been added to the system, with all the relevant attributes. The next time the application starts, it should be able to read back all the information saved in the file and continue to use the system.
+* Save in a file the list of products that have been added to the system, with all the relevant attributes. The next time the application starts, it can read back all the information saved in the file and continue to use the system.
 
 ## Graphical User Interface (GUI) Implementation
 The GUI is opened from the menu console, and it allows the user to:
